@@ -22,3 +22,17 @@ Dashboard Features:
 - Driver Performance & Delay Tracking
 - Vehicle Breakdown & Age Analysis
 - Monthly On-Time Delivery Trends
+
+#Dashboard Preview
+
+Overview Page
+![Overview](Routepulse%20Ss/Dashboard%20Overview.png)
+
+Drivers Overview
+![Drivers](Routepulse%20Ss/Drivers%20Overview.png)
+
+Hubs Overview
+![Hubs](Routepulse%20Ss/Hubs%20Overview.png)
+
+Vehicles Overview
+![Vehicles](Routepulse%20Ss/Vehicles%20Overview.png)
