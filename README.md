@@ -18,7 +18,7 @@ Tools Used:
 - DAX
 
 Dashboard Features: 
-I . Hub Capacity vs Orders Analysis
-II . Driver Performance & Delay Tracking
-III . Vehicle Breakdown & Age Analysis
-IV . Monthly On-Time Delivery Trends
+- Hub Capacity vs Orders Analysis
+- Driver Performance & Delay Tracking
+- Vehicle Breakdown & Age Analysis
+- Monthly On-Time Delivery Trends
