@@ -30,14 +30,14 @@ customer complaints and revenue loss.
   peak delivery windows
 
 # KPIs Tracked
-| Metric | Description |
+Metric - Description 
 
-| On-Time Delivery Rate | % of deliveries completed on schedule |
-| CSAT % | Customer satisfaction score per hub |
-| Avg Delivery Time | Mean time from dispatch to delivery |
-| Driver Efficiency | Orders completed per driver per day |
-| Hub Utilization | Capacity used vs available per hub |
-| Vehicle Utilization | Active vs idle vehicle ratio |
+- On-Time Delivery Rate: % of deliveries completed on schedule 
+- CSAT %: Customer satisfaction score per hub 
+- Avg Delivery Time: Mean time from dispatch to delivery 
+- Driver Efficiency: Orders completed per driver per day 
+- Hub Utilization: Capacity used vs available per hub 
+- Vehicle Utilization: Active vs idle vehicle ratio 
 
 # Dashboard Pages
 1. **Overview** — High-level KPIs and delivery trends
