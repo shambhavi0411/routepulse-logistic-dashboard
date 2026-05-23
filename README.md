@@ -1,38 +1,60 @@
-# routepulse-logistic-dashboard
-Project Overview
+# RoutePulse — Logistics Analytics Dashboard | Power BI | Excel | DAX
 
-This Power BI dashboard analyzes logistics operations including hubs, drivers, vehicles, and delivery performance. It provides KPI-driven insights to monitor operational efficiency and business performance.
-It provides KPI-driven insights to monitor operational efficiency and business performance.
-
-Key KPIs: 
-- Total Orders
-- On-Time Delivery Rate
-- CSAT %
-- Average Delivery Time
-- Hub Performance Ranking
+A multi-page interactive Power BI dashboard analyzing 1,000+ 
+logistics delivery records to identify operational 
+inefficiencies, driver performance gaps, and hub capacity issues.
 
 
-Tools Used: 
-- Power BI
-- Excel
-- DAX
+# Problem Statement
+Logistics operations teams struggle to get a unified view of 
+delivery performance across multiple hubs, drivers, and 
+vehicle types. Delays go undetected until they escalate into 
+customer complaints and revenue loss.
 
-Dashboard Features: 
-- Hub Capacity vs Orders Analysis
-- Driver Performance & Delay Tracking
-- Vehicle Breakdown & Age Analysis
-- Monthly On-Time Delivery Trends
+# Tools Used
+- Power BI — multi-page interactive dashboard
+- DAX — custom KPI measures and dynamic calculations
+- Excel — data cleaning, preprocessing and exploration
+  
+# Dashboard Preview
+[Dashboard Screenshots](Routepulse%20Ss)
 
-#Dashboard Preview
+# Key Insights
+- Identified top delay-causing routes and hubs through 
+  on-time delivery rate analysis
+- Driver performance view revealed significant efficiency 
+  gaps between top and bottom performers
+- Vehicle utilization tracking highlighted underused assets 
+  that could reduce fleet costs
+- Hub capacity analysis pinpointed bottlenecks during 
+  peak delivery windows
 
-Overview Page
-![Overview](Routepulse%20Ss/Dashboard%20Overview.png)
+## 📈 KPIs Tracked
+| Metric | Description |
 
-Drivers Overview
-![Drivers](Routepulse%20Ss/Drivers%20Overview.png)
+| On-Time Delivery Rate | % of deliveries completed on schedule |
+| CSAT % | Customer satisfaction score per hub |
+| Avg Delivery Time | Mean time from dispatch to delivery |
+| Driver Efficiency | Orders completed per driver per day |
+| Hub Utilization | Capacity used vs available per hub |
+| Vehicle Utilization | Active vs idle vehicle ratio |
 
-Hubs Overview
-![Hubs](Routepulse%20Ss/Hubs%20Overview.png)
+# Dashboard Pages
+1. **Overview** — High-level KPIs and delivery trends
+2. **Driver Performance** — Individual driver metrics and rankings
+3. **Hub Efficiency** — Location-wise throughput and delays
+4. **Vehicle Analytics** — Fleet utilization and performance
 
-Vehicles Overview
-![Vehicles](Routepulse%20Ss/Vehicles%20Overview.png)
+# Business Recommendations
+- Reassign high-volume routes to top-performing drivers 
+  during peak hours
+- Flag hubs with consistently low CSAT for operational review
+- Review underutilized vehicles for potential fleet reduction
+
+## Project Files
+
+[Power BI Dashboard](RoutePulse%20Dashboard.pbix)
+
+[Dataset Folder](logistic%20dashboard%20data)
+
+[Dashboard Screenshots](Routepulse%20Ss)
