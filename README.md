@@ -29,7 +29,7 @@ customer complaints and revenue loss.
 - Hub capacity analysis pinpointed bottlenecks during 
   peak delivery windows
 
-## 📈 KPIs Tracked
+# KPIs Tracked
 | Metric | Description |
 
 | On-Time Delivery Rate | % of deliveries completed on schedule |
