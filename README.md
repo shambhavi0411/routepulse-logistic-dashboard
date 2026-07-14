@@ -16,15 +16,18 @@ customer complaints and revenue loss.
 - DAX — custom KPI measures and dynamic calculations
 - Excel — data cleaning, preprocessing and exploration
   
-## Visualizations
+## Visualization
 ### Dashboard Overview
-![Dashboard Overview](Images/Dashboard%20Overview.png)
+![Dashboard Overview](Routepulse%20Ss/Dashboard%20Overview.png)
+
 ### Drivers Overview
-![Drivers Overview](Images/Drivers%20Overview.png)
+![Drivers Overview](Routepulse%20Ss/Drivers%20Overview.png)
+
 ### Hubs Overview
-![Hubss Overview](Images/Hubss%20Overview.png)
+![Hubs Overview](Routepulse%20Ss/Hubs%20Overview.png)
+
 ### Vehicles Overview
-![Vehicles Overview](Images/Vehicles%20Overview.png)
+![Vehicles Overview](Routepulse%20Ss/Vehicles%20Overview.png)
 
 # Key Insights
 - Identified top delay-causing routes and hubs through 
