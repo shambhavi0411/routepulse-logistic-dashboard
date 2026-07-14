@@ -16,8 +16,15 @@ customer complaints and revenue loss.
 - DAX — custom KPI measures and dynamic calculations
 - Excel — data cleaning, preprocessing and exploration
   
-# Dashboard Preview
-[Dashboard Screenshots](Routepulse%20Ss)
+## Visualizations
+### Dashboard Overview
+![Dashboard Overview](Images/Dashboard%20Overview.png)
+### Drivers Overview
+![Drivers Overview](Images/Drivers%20Overview.png)
+### Hubs Overview
+![Hubss Overview](Images/Hubss%20Overview.png)
+### Vehicles Overview
+![Vehicles Overview](Images/Vehicles%20Overview.png)
 
 # Key Insights
 - Identified top delay-causing routes and hubs through 
@@ -54,9 +61,7 @@ Metric - Description
 ## Project Files
 
 [Power BI Dashboard](RoutePulse%20Dashboard.pbix)
-
 [Dataset Folder](logistic%20dashboard%20data)
-
 [Dashboard Screenshots](Routepulse%20Ss)
 
 
